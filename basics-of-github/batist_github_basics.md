@@ -1,4 +1,4 @@
-# Basics of GitHub bloop
+# Basics of GitHub
 This brief overview explains the overall functionality of git and GitHub for users with little or no prior experience using version control systems. In addition to this page, here are some other handy resources that may also be helpful:
 
 + [Roger Dudler's extremely accessible and practical guide to git](http://rogerdudler.github.io/git-guide/)

@@ -8,9 +8,9 @@ This brief overview explains the overall functionality of git and GitHub for use
 Git is a version control protocol that allows people to modify or contribute to open source or open access projects in a non-intrusive and organized manner. GitHub is one particular service for git users that provides free hosting for smaller projects, and offers the most effective and streamlined collaborative environment for such work. Git is analogous to a common language that GitHub and other independent servers and services are based upon and communicate through.
 
 ### Why Use GitHub for Archaeological Research?
-```
+
 The primary and original function of GitHub and the git protocol is to track contributions and revisions to open source software development projects in an efficient and transparent manner. However the implementation of GitHub's more accessible user interfaces, along with an uptick of interest among academics, artists and non-coders, has brought about lots of alternative uses. Among archaeologists, GitHub is used as a platform for teaching, writing, blogging, database management, code sharing, and increasing research transparency. One unifying factor that seems to link these alternative applications together is the desire to work in an open, collaborative, and accessible manner. As such, these novel applications of GitHub essentially represent a broadened echo of the platform's original purpose.
-```
+
 
 Git operates through a branching mechanism that allows users to **fork** already existing repositories as duplicates, which can then be modified as they see fit. A fork is considered to be **downstream** relative to the repository that is is based upon, which is complementarily **upstream** relative to the fork. Each fork is a repository in its own right, and may thus be further expanded upon by other users. In sum, forking allows a user to create their own copy of the original repository (hosted on GitHub), while also establishing a direct connection between them.
 
